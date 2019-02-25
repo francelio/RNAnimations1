@@ -1,0 +1,3 @@
+rootProject.name = 'reactAnimations1'
+
+include ':app'
